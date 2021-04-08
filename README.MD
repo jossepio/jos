@@ -8,15 +8,8 @@ Kaynak dosyalarından dilediğiniz gibi esinlenip / fikir elde edip kendi projen
 
 # Proje Sahibi
 
-- Yusuf Emir Bilen 
-- İletişim - <josephemir@yaani.com>
-
-# Botu Davet Et
-[Botu davet etmek için buraya tıkla!][1]
-
-
-  [1]: https://discord.com/oauth2/authorize?client_id=719936787790823497&permissions=8&scope=bot
+- Yusuf Emir
 
 # Lisans
 
-©️ Yusuf Emir Bilen, MIT License
+©️ Yusuf Emir, MIT License
